@@ -2,8 +2,16 @@
     "name": "davemin/laravel-multiauth-scaffolding",
     "description": "Very Simple Laravel Multi-Auth Scaffolding",
     "keywords": ["Multi-Auth", "laravel","Scaffolding"],
-    "license": "MIT",
     "type": "project",
+    "homepage": "https://github.com/davemin/laravel-multiauth-scaffolding",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Davide Minardi",
+            "email": "minardi.davide@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=5.6.4",
         "laravel/framework": "5.4.*",
