@@ -15,4 +15,12 @@ Once the project creation procedure will be completed, run the `php artisan migr
 Now you have `users` table and `admins` table, fill with same fake user and admin with password. 
 If you login as admin you can access to admin dashboard, instead, if you login as standard user you can use users dashboard.
 
+Admin route:
+
+`http://example.com/amdin/login`
+
+User route:
+
+`http://example.com/login`
+
 I currently made this project for personal purposes. If you have any feedback to improve it, feel free to make a suggestion, or open a PR!
